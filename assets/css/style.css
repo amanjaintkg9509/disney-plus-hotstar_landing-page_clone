@@ -1,0 +1,73 @@
+.container{
+    padding: 0 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 66px;
+}
+
+.line{
+    width: 18px;
+    height: 2px;
+    background-color: #dfccccd9;
+    margin: 4px 0;
+}
+
+body{
+    background-color: #131A27;
+    color: #FFFFFFCC;
+}
+
+input[type="text"]{
+    background-color: #131A27;
+    color: #FFFFFFCC;
+    border: none;
+    border-bottom: 1px solid; 
+    height: 30px;
+    width: 60vh;
+}
+
+*{
+    font-family: "Roboto","HelveticaNeue-Light",sans-serif;
+}
+
+.f-row-rev{
+    flex-direction: row-reverse;
+    width: 100%;
+}
+
+ul{
+    list-style-type: none;
+    width: 400px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.f-dir-col{
+    flex-direction: column;
+}
+
+.f-dir-row{
+    flex-direction: row;
+}
+
+.j-space-btw{
+    justify-content: space-between;
+}
+
+.j-space-center{
+    justify-content: center;
+}
+
+.icon-kids{
+    width: 40px;
+    height: 15px;
+    background: url(https://www.hotstar.com/assets/4aa70ede8904e16b7630300c09219c8e.svg);
+}
+
+.link{
+    font-size: xx-small;
+    color: #1F80E0;
+}
+
