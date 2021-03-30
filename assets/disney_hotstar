@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T19:48:38.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WPR3OU-gT_bOpScuI8Db" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T19:49:49.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="sQ543l-T8ZVekKsxICkA" version="14.4.9" type="github">
   <diagram id="JNP1OHwAo5xTKTpw15Gf" name="Page-1">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="8qGAIN3_SESKCHKsCpHj-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8qGAIN3_SESKCHKsCpHj-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="80" width="1040" height="320" as="geometry" />
         </mxCell>
         <mxCell id="8qGAIN3_SESKCHKsCpHj-5" value="Menu Header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="230" y="30" width="540" height="30" as="geometry" />
@@ -99,6 +96,9 @@
         </mxCell>
         <mxCell id="8qGAIN3_SESKCHKsCpHj-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8qGAIN3_SESKCHKsCpHj-33" value="&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;Slider&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="1030" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
