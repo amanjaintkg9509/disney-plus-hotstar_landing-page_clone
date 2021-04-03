@@ -168,6 +168,39 @@ ul{
     line-height: 24px;
 }
 
+.tinted-image {
+    height: 400px;
+    width: 100%;
+    background-image: linear-gradient(to right, #030B17, rgba(0, 255, 0, 0) 50%, transparent 50%), url(https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2489/942489-h);
+    margin: auto;
+    background-repeat: round;
+  }
+
+.text-slider{
+    background: #030B17;
+    width: 36%;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+}
+
+.title{
+    font-size: 28px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.toptitle{
+    color: #FFFFFF99;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.description{
+    color: #FFFFFFCC;
+    font-size: 16px;
+    padding-top: 10px;
+}
 
 .signin-link{
     font-size: 16px;
@@ -180,6 +213,10 @@ ul{
     padding: 13px 0;
     margin-left: 15px;
     opacity: 1;
+}
+
+#main{
+    display: flex;
 }
 
 .copyright{
