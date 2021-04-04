@@ -25,3 +25,10 @@ function showSlides(n) {
   }
   slides[slideIndex-1].style.display = "block"; 
 }
+
+  setTimeout(()=>{
+    document.getElementById("loader").style.display = "none";}, 3000);
+
+
+document.getElementById("loader").style.display = "block";
+
